@@ -1,0 +1,14 @@
+{
+  "name": "arsenal",
+  "version": "1.0.0",
+  "description": "30 skills de especialista para ferramentas open source (vídeo, automação de browser, CRM, self-hosting, observabilidade, IA, segurança) + um roteador que escolhe a ferramenta certa automaticamente.",
+  "author": {
+    "name": "Anderson",
+    "email": "blackandin@gmail.com",
+    "url": "https://github.com/blackandin-enzoeisabella"
+  },
+  "homepage": "https://github.com/blackandin-enzoeisabella/claude-arsenal",
+  "repository": "https://github.com/blackandin-enzoeisabella/claude-arsenal",
+  "license": "MIT",
+  "keywords": ["skills", "self-hosted", "mcp", "video", "devops", "observability", "automation", "pt-br"]
+}

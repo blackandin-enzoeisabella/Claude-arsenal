@@ -1,0 +1,20 @@
+{
+  "name": "claude-arsenal",
+  "owner": {
+    "name": "Anderson",
+    "email": "blackandin@gmail.com"
+  },
+  "metadata": {
+    "description": "Arsenal de skills de especialista para o Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "arsenal",
+      "source": "./",
+      "description": "30 skills de especialista + roteador automático (OpenReel, Agent Browser, DeskcommCRM, Dockge, Dify, OpenObserve, Presenton e mais).",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
